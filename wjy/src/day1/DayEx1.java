@@ -11,11 +11,11 @@ public class DayEx1 {
 		/* 성별을 저장하여 관리하려 한다. 알맞은 변수를 선언하고 초기값으로 남자를 설정해보세요.
 		 * 단, 성별은 남자와 여자만 있다고 가정.
 		 */
-		String num1 = "male";
+		String num1 = "male";// 내 답변
 		String num2 = "girl";
 		System.out.println(num1+num2);
 		
-		boolean isMale = true;
+		boolean isMale = true;// 선생님 답변
 		String gender = "male";
 		int isMale2 = 13;//13:남자, 24:여자라는 걸 기억해야하는 불편함이 있다.
 		
